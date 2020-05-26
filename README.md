@@ -10,3 +10,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+
+## Theme
+This theme is based on the [slate](https://bootswatch.com/slate) theme from [bootswatch](https://bootswatch.com)
